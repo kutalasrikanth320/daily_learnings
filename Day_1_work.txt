@@ -1,0 +1,8 @@
+Does:
+1.Completed practise session of html and css in nxtWave.
+2.completed day_1 and day_2 tasks in 100dayscoding python.
+3.listened the JavaScript class in nxtWave.
+
+missed:
+1.SQL 
+2.CGl
